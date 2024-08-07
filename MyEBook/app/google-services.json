@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88604655013",
+    "project_id": "my-e-book-12d95",
+    "storage_bucket": "my-e-book-12d95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88604655013:android:c6c8afe99fa6c53a5efc4c",
+        "android_client_info": {
+          "package_name": "com.sujoy.mye_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAurdPI6es7zQFYxNrERbk7u6-nSJHxQa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
